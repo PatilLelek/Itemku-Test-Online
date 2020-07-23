@@ -1,0 +1,8 @@
+{
+  "name": "Itemku-Test-Online",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PatilLelek/Itemku-Test-Online.git",
+  "author": "@aldino_yogi <aldino.yogi@gmail>",
+  "license": "MIT"
+}

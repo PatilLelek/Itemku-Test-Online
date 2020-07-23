@@ -9,8 +9,7 @@ function solution(N, users) {
     numberPlayer = numberPlayer - reducePlayer.length;
   }
 
-  let sortResume = stageResume.sort((x, y) => y[1] - x[1]);
-
+  const sortResume = stageResume.sort((x, y) => y[1] - x[1]);
   const answer = sortResume.map(item => item[0]);
   return answer;
 }
